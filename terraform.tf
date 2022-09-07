@@ -1,5 +1,3 @@
-AWS
-
 provider &quot;aws&quot; {
 region = &quot;ap-south-1&quot;
 profile = &quot;default&quot;
@@ -62,8 +60,6 @@ tags = {
 Name = &quot;TF subnet&quot;
 }
 }
-
-Google cloud platform
 
 provider &quot;google&quot; {
 project = &quot;majorproject-319008&quot;
